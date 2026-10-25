@@ -1,0 +1,19 @@
+{
+  "id": "diffy",
+  "name": "Diffy",
+  "author": "hitSlop",
+  "description": "A native Git diff viewer built in Rust. Review live changes, switch between worktrees, read GitHub pull requests, and discover projects from your coding agents.",
+  "category": "dev",
+  "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+  ],
+  "website": "https://diffy.run",
+  "source": "https://github.com/hitSlop/Diffy",
+  "building": true,
+  "publishedAt": "2026-10-24T17:52:07.793Z",
+  "previews": [
+    "preview0.png"
+  ]
+}
